@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../My-Portfolio/img/dhero-gb2.jpg") top center;
+  background: url("../img/dhero-gb2.jpg") top center;
   background-size: cover;
 }
 #hero:before {
@@ -815,7 +815,7 @@ section {
 #hero{
   width: 101%;
   height: 102vh;
-  background: url("../My-Portfolio/img/dmy3.jpg") top center;
+  background: url("../img/dmy3.jpg") top center;
   background-size: cover;
 }
 #hero h1 {
